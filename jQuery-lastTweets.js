@@ -19,7 +19,7 @@ var twitterFetcher = null;
 		}, options);
    
         if ( settings.auth.length != 18) {
-            alert('lastTweets require twitter widget auth. See instructions here: [[github_link]]');
+            alert('lastTweets require twitter widget auth. See instructions here: https://github.com/prostosergik/jQuery-lastTweets');
             return;
         }
         
@@ -40,17 +40,18 @@ var twitterFetcher = null;
                         i++;
                     });
 
-                    
                     $.each(tweets, function(){
-                        tweets_str += wrap.replace('[[text]]', filter(this));
+                        if(/\[\[text\]\]/.test(wrap)) {
+                            tweets_str += wrap.replace('[[text]]', filter(this));
+                        } else {
+                            tweets_str += filter(this);
+                        }
                     });
-                    
-                    
+                
                     els.each(function(){
                         $(this).html(tweets_str);
                     });
-
-                    
+    
                     if ( $.isFunction( complete ) ) {
                         complete.call(this, tweets, tweets_str);
                     }
