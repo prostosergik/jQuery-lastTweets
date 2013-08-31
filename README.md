@@ -49,10 +49,12 @@ Use this as your auth.
 CREDITS
 -------
 
-Sponsored by Sweetrelish.com. Find something interedting for you to buy!
+Sponsored by [Sweetrelish.com] [1]. Find something interedting for you to buy!
 
 Inpired by **Jason Mayes** Twitter Post Fetcher v10.0 (http://www.jasonmayes.com/projects/twitterApi/), also, I use your instructions, man, hope you don't mind. =)  
 
 Feel free to use and modify this code. Only keep my copitights and add link to Sweetrelish.com. This is required, no exclusions.
 
 You can contact me by writting email to <serge.liskovsky@gmail.com>.
+
+  [1]: http://sweetrelish.com/        "Sweetrelish.com"
