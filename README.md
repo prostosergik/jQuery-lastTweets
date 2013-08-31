@@ -25,7 +25,7 @@ Check it here: http://jsfiddle.net/prostosergik/8yVwZ/4/ I can't promise it will
 Template engine (haha)
 -----------------------
 
-If you set "wrap" opiton, each tweet will be wrapped by this html code. I.e. "[[text]]" will be replced with tweet text.
+If you set "wrap" opiton, each tweet will be wrapped by this html code. I.e. "[[text]]" will be replced with tweet text. Don't want to use template at all? Set it to empty line.
 
 Other params
 ------------
