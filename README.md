@@ -51,10 +51,11 @@ Credits
 
 Sponsored by [Sweetrelish.com] [1]. Find something interedting for you to buy!
 
-Inspired by **Jason Mayes** Twitter Post Fetcher (http://www.jasonmayes.com/projects/twitterApi/), also, I use your instructions and some of your code, man, hope you don't mind. =)  
+Inspired by **Jason Mayes** [Twitter Post Fetcher] [2], also, I use your instructions and some of your code, man, hope you don't mind. =)  
 
 Feel free to use and modify this code. Only keep my copyrights and add link to Sweetrelish.com. This is required, no exclusions.
 
 You can contact me by writing email to <serge.liskovsky@gmail.com>.
 
   [1]: http://sweetrelish.com/	"Sweetrelish.com"
+  [2]: http://www.jasonmayes.com/projects/twitterApi/	"Twitter Post Fetcher"
