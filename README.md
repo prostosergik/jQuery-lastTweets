@@ -20,12 +20,12 @@ Usage
 	    });
 	});
 
-Check it here: http://jsfiddle.net/prostosergik/8yVwZ/4/ I can't promice it will always contain latest verstion, so this is your chance to see it in action. Don't rely on that code. Use GIT repo.
+Check it here: http://jsfiddle.net/prostosergik/8yVwZ/4/ I can't promise it will always contain latest version, so this is your chance to see it in action. Don't rely on that code. Use GIT repo.
 
 Template engine (haha)
 -----------------------
 
-If you set "wrap" opion, each tweet will be wrapped by this html code. I.e. "[[text]]" will be replced with tweet text.
+If you set "wrap" opiton, each tweet will be wrapped by this html code. I.e. "[[text]]" will be replced with tweet text.
 
 Other params
 ------------
@@ -35,15 +35,15 @@ You are smart guy, I think you can figure out what each parameter for.
 How to create an auth ID to use:
 -------------------------------
 
-Go to www.twitter.com and sign in as normal, go to your settings page.
-Go to "Widgets" on the left hand side.
-Create a new widget for what you need eg "user timeline" or "search" etc. 
-Feel free to check "exclude replies" if you dont want replies in results.
-Now go back to settings page, and then go back to widgets page, you should
+* Go to www.twitter.com and sign in as normal, go to your settings page.
+* Go to "Widgets" on the left hand side.
+* Create a new widget for what you need eg "user timeline" or "search" etc. 
+* Feel free to check "exclude replies" if you dont want replies in results.
+* Now go back to settings page, and then go back to widgets page, you should
 see the widget you just created. Click edit.
-Now look at the URL in your web browser, you will see a long number like this:
+* Now look at the URL in your web browser, you will see a long number like this:
 373591145017643008
-Use this as your auth.
+* Use this as your auth.
 
 
 Credits
@@ -51,10 +51,10 @@ Credits
 
 Sponsored by [Sweetrelish.com] [1]. Find something interedting for you to buy!
 
-Inpired by **Jason Mayes** Twitter Post Fetcher (http://www.jasonmayes.com/projects/twitterApi/), also, I use your instructions, man, hope you don't mind. =)  
+Inspired by **Jason Mayes** Twitter Post Fetcher (http://www.jasonmayes.com/projects/twitterApi/), also, I use your instructions, man, hope you don't mind. =)  
 
-Feel free to use and modify this code. Only keep my copitights and add link to Sweetrelish.com. This is required, no exclusions.
+Feel free to use and modify this code. Only keep my copyrights and add link to Sweetrelish.com. This is required, no exclusions.
 
-You can contact me by writting email to <serge.liskovsky@gmail.com>.
+You can contact me by writing email to <serge.liskovsky@gmail.com>.
 
   [1]: http://sweetrelish.com/        "Sweetrelish.com"
