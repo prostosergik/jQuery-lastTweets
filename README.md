@@ -20,7 +20,7 @@ Usage
 	    });
 	});
 
-Check it here: http://jsfiddle.net/prostosergik/8yVwZ/4/ I can't promise it will always contain latest version, so this is your chance to see it in action. Don't rely on that code. Use GIT repo.
+Check it here: http://jsfiddle.net/prostosergik/8yVwZ/ I can't promise it will always contain latest version, so this is your chance to see it in action. Don't rely on that code. Use GIT repo.
 
 Template engine (haha)
 -----------------------
