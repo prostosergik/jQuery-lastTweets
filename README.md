@@ -57,5 +57,5 @@ Feel free to use and modify this code. Only keep my copyrights and add link to S
 
 You can contact me by writing email to <serge.liskovsky@gmail.com>.
 
-  [1]: http://sweetrelish.com/	"Sweetrelish.com"
-  [2]: http://www.jasonmayes.com/projects/twitterApi/	"Twitter Post Fetcher"
+  [1]: http://sweetrelish.com/ "Sweetrelish.com"
+  [2]: http://www.jasonmayes.com/projects/twitterApi/ "TwitterPostFetcher"
