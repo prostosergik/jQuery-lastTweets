@@ -35,7 +35,7 @@ var twitterFetcher = null;
                     var i = 0;
                     $.each(div.find('.tweet'), function(){
                         if((num != null && i < num) || num === null){ 
-                            tweets.push($(this).find('.e-entry-content').find('.e-entry-title').text());
+                            tweets.push($(this).find('.e-entry-content').find('.e-entry-title').html());
                         }
                         i++;
                     });
